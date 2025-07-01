@@ -52,9 +52,9 @@ html, body {
 }
 
 .slider-container {
-  position: fixed;
-  top: 20px;
-  right: 20px;
+  position: absolute;
+  bottom: 20px;    /* 10px from bottom */
+  right: 10px;     /* 10px from right */
   z-index: 10;
 }
 
