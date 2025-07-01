@@ -53,7 +53,7 @@ html, body {
 
 .slider-container {
   position: absolute;
-  bottom: 20px;    /* 10px from bottom */
+  bottom: 50px;    /* 50px from bottom */
   right: 10px;     /* 10px from right */
   z-index: 10;
 }
